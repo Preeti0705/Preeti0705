@@ -34,6 +34,9 @@ I contribute to open source to learn how real software is built:
 ---
 ## 📊 GitHub Stats
 
+![Stats](https://github-readme-stats.vercel.app/api?username=Preeti0705&show_icons=true&theme=tokyonight&t=20260106)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Preeti0705&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Preeti0705&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800)
