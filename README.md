@@ -32,7 +32,7 @@ I contribute to open source to learn how real software is built:
 * Consistency over intensity
 
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Preeti0705&theme=tokyonight)
 
