@@ -1,4 +1,4 @@
-# Hi 👋, I’m a Computer Science Student
+# Hi there! 👋, I’m a Computer Science Student
 
 I’m pursuing a bachelor’s degree in **Computer Science and Engineering**.
 
