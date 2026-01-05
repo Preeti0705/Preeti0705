@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I’m a Computer Science Student
 
-<!--
-**Preeti0705/Preeti0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m pursuing a bachelor’s degree in **Computer Science and Engineering**.
 
-Here are some ideas to get you started:
+I’m interested in **software engineering** and **problem solving** — understanding problems deeply, reasoning about solutions, and writing clear, maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Do
+
+* Build small to medium software projects
+* Strengthen core CS fundamentals
+* Work on backend- and systems-leaning problems
+* Read, debug, and improve existing code
+
+---
+
+## Open Source
+
+I contribute to open source to learn how real software is built:
+
+* working with shared codebases
+* collaborating through issues and pull requests
+* improving code quality incrementally
+
+---
+
+## Principles
+
+* Simplicity over cleverness
+* Fundamentals over tools
+* Consistency over intensity
+
+---
+
+Thanks for stopping by.
