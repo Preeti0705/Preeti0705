@@ -31,12 +31,12 @@ Note: I used many of the web and ML/AI tools listed above in practical projects 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Preeti0705&layout=compact&theme=tokyonight)
 
-## 📊 GitHub Stats--!>
+## 📊 GitHub Stats-->
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Preeti0705&show_icons=true&theme=tokyonight)
 
-<!--![GitHub Streak](https://streak-stats.demolab.com?user=Preeti0705&theme=tokyonight)--!>
+<!--![GitHub Streak](https://streak-stats.demolab.com?user=Preeti0705&theme=tokyonight)-->
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Preeti0705&layout=compact&theme=tokyonight)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --!>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
