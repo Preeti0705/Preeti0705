@@ -39,4 +39,4 @@ Note: I used many of the web and ML/AI tools listed above in practical projects 
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Preeti0705&layout=compact&theme=tokyonight)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --!>
