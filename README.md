@@ -1,14 +1,24 @@
 # 💫 About Me:
-Hi there! <br>I'm a CSE undergrad and a curious problem-solver. I am interested in problem solving — understanding problems deeply, reasoning about solutions, and writing clear, maintainable code.
-
-I build full-stack applications and enjoy designing end-to-end systems. I’m especially passionate about integrating AI and machine learning into products: prototyping models, crafting data pipelines, and deploying AIML solutions that solve real-world problems. I balance engineering rigor with user-focused design, and I’m always learning new tools and techniques to make systems more reliable, scalable, and intelligent.
+Hi there! I'm a CSE undergraduate driven by curiosity and a research-minded approach to building systems. I explore full‑stack engineering, applied AI/ML, and systems research — taking projects from prototyping to production. I enjoy designing responsive frontends, building resilient backend services and data pipelines, experimenting with models and evaluating results, and deploying end‑to‑end solutions on cloud platforms. My work balances hands‑on engineering with iterative experimentation: I pick tools to match the problem, measure outcomes, and document findings so ideas can scale into reliable products.
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preetisahoo0705@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1abc9c?style=flat&logo=google-chrome&logoColor=white)](https://preeti0705.github.io/Portfolio/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preetisahoo0705@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1abc9c?style=flat&logo=goo[...] 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- Languages (comfortable): C/C++, Python, Java, SQL
+
+- Web Development & Frontend: JavaScript, TypeScript, React.js, HTML, CSS
+- Backend & APIs: Node.js, Express.js, REST APIs
+- Databases: MongoDB, PostgreSQL
+
+- Frameworks & Tools: Google Cloud Platform (GCP), AWS (familiar), Docker, Nginx, Redis, BullMQ, Flutter, Streamlit, Git, Artillery
+
+- ML / AI (project experience): PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, OpenCV, Audio Machine Learning, Model Deployment, Google Gemini AI, Ollama (familiar)
+
+Note: I used many of the web and ML/AI tools listed above in practical projects across my profile; my experience ranges from beginner to familiar depending on the tool and project requirements, and I'm actively deepening those skills through new builds and research.
+
 
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=Preeti0705&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
