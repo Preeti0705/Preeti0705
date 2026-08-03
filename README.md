@@ -3,7 +3,7 @@ Hi there! I'm a CSE undergraduate driven by curiosity and a research-minded appr
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preetisahoo0705@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1abc9c?style=flat&logo=goo[...] 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preetisahoo0705@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1abc9c?style=flat&logo=goo[https://preeti0705.github.io/Portfolio/] 
 
 # 💻 Tech Stack:
 
