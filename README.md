@@ -21,7 +21,7 @@ Note: I used many of the web and ML/AI tools listed above in practical projects 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Preeti0705&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=Preeti0705&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Preeti0705&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Preeti0705&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -30,5 +30,13 @@ Note: I used many of the web and ML/AI tools listed above in practical projects 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Preeti0705&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Preeti0705&layout=compact&theme=tokyonight)
+
+## 📊 GitHub Stats--!>
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Preeti0705&show_icons=true&theme=tokyonight)
+
+<!--![GitHub Streak](https://streak-stats.demolab.com?user=Preeti0705&theme=tokyonight)--!>
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Preeti0705&layout=compact&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
