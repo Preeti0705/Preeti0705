@@ -17,8 +17,6 @@ Hi there! I'm a CSE undergraduate driven by curiosity and a research-minded appr
 
 - ML / AI (project experience): PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, OpenCV, Audio Machine Learning, Model Deployment, Google Gemini AI, Ollama (familiar)
 
-Note: I used many of the web and ML/AI tools listed above in practical projects across my profile; my experience ranges from beginner to familiar depending on the tool and project requirements, an[...]
-
 
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=Preeti0705&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
